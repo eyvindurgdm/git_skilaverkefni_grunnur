@@ -14,7 +14,7 @@ __Proident quis velit sint__ fugiat eiusmod eiusmod esse. Cupidatat velit nulla 
 
 >Dolor tempor velit excepteur ut nostrud est excepteur fugiat fugiat voluptate duis cupidatat elit. Nulla aliquip aute consequat quis elit consequat ullamco excepteur officia.
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=HUBNt18RFbo" target="_blank"><img src="http://img.youtube.com/vi/HUBNt18RFbo/0.jpg"/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+[![Myndband](http://img.youtube.com/vi/HUBNt18RFbo/0.jpg)](http://www.youtube.com/watch?v=HUBNt18RFbo)
 
 ## Aliquip sunt laboris et esse nostrud. 
 
