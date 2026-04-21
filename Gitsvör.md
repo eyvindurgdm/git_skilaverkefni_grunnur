@@ -15,3 +15,4 @@ git branch - sýnir hvaða branches það eru
 útgáfustýring - leyfir þér að sjá munin á milli commits
 kostir við git - Leyfir fólk að vinna saman betur
 commit - Þegar að það virkar
+working directory - Möppuna sem þú ert að vinna í
