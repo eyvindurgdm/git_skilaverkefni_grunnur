@@ -13,4 +13,4 @@ git checkout - skiptir á milli branches
 git branch - sýnir hvaða branches það eru
 
 útgáfustýring - leyfir þér að sjá munin á milli commits
-Leyfir fólk að vinna saman betur
+kostir við git - Leyfir fólk að vinna saman betur
